@@ -1,0 +1,1 @@
+appium --address 127.0.0.1 --port 4729 --nodeconfig node2.json --session-override &
